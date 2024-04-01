@@ -1,7 +1,4 @@
-//
-//  IntroToUIUITests.swift
-//  IntroToUIUITests
-//
+
 //  Created by Tabita Sadiq on 3/31/24.
 //
 

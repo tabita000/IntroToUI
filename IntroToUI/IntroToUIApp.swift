@@ -1,7 +1,4 @@
 //
-//  IntroToUIApp.swift
-//  IntroToUI
-//
 //  Created by Tabita Sadiq on 3/31/24.
 //
 

@@ -36,16 +36,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		225EE5CF2BBA4E0100EA496C /* IntroToUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntroToUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		225EE5CF2BBA4E0100EA496C /* CreatingAndCombiningViewsTabitaS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CreatingAndCombiningViewsTabitaS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		225EE5D22BBA4E0100EA496C /* IntroToUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroToUIApp.swift; sourceTree = "<group>"; };
 		225EE5D42BBA4E0100EA496C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		225EE5D62BBA4E0200EA496C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		225EE5D92BBA4E0200EA496C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		225EE5DB2BBA4E0200EA496C /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		225EE5DE2BBA4E0200EA496C /* IntroToUI.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = IntroToUI.xcdatamodel; sourceTree = "<group>"; };
-		225EE5E42BBA4E0200EA496C /* IntroToUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IntroToUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		225EE5E42BBA4E0200EA496C /* CreatingAndCombiningViewsTabitaSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CreatingAndCombiningViewsTabitaSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		225EE5E82BBA4E0200EA496C /* IntroToUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroToUITests.swift; sourceTree = "<group>"; };
-		225EE5EE2BBA4E0200EA496C /* IntroToUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IntroToUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		225EE5EE2BBA4E0200EA496C /* CreatingAndCombiningViewsTabitaSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CreatingAndCombiningViewsTabitaSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		225EE5F22BBA4E0200EA496C /* IntroToUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroToUIUITests.swift; sourceTree = "<group>"; };
 		225EE5F42BBA4E0200EA496C /* IntroToUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroToUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -88,9 +88,9 @@
 		225EE5D02BBA4E0100EA496C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				225EE5CF2BBA4E0100EA496C /* IntroToUI.app */,
-				225EE5E42BBA4E0200EA496C /* IntroToUITests.xctest */,
-				225EE5EE2BBA4E0200EA496C /* IntroToUIUITests.xctest */,
+				225EE5CF2BBA4E0100EA496C /* CreatingAndCombiningViewsTabitaS.app */,
+				225EE5E42BBA4E0200EA496C /* CreatingAndCombiningViewsTabitaSTests.xctest */,
+				225EE5EE2BBA4E0200EA496C /* CreatingAndCombiningViewsTabitaSUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -136,9 +136,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		225EE5CE2BBA4E0100EA496C /* IntroToUI */ = {
+		225EE5CE2BBA4E0100EA496C /* CreatingAndCombiningViewsTabitaS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 225EE5F82BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "IntroToUI" */;
+			buildConfigurationList = 225EE5F82BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "CreatingAndCombiningViewsTabitaS" */;
 			buildPhases = (
 				225EE5CB2BBA4E0100EA496C /* Sources */,
 				225EE5CC2BBA4E0100EA496C /* Frameworks */,
@@ -148,14 +148,14 @@
 			);
 			dependencies = (
 			);
-			name = IntroToUI;
+			name = CreatingAndCombiningViewsTabitaS;
 			productName = IntroToUI;
-			productReference = 225EE5CF2BBA4E0100EA496C /* IntroToUI.app */;
+			productReference = 225EE5CF2BBA4E0100EA496C /* CreatingAndCombiningViewsTabitaS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		225EE5E32BBA4E0200EA496C /* IntroToUITests */ = {
+		225EE5E32BBA4E0200EA496C /* CreatingAndCombiningViewsTabitaSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 225EE5FB2BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "IntroToUITests" */;
+			buildConfigurationList = 225EE5FB2BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "CreatingAndCombiningViewsTabitaSTests" */;
 			buildPhases = (
 				225EE5E02BBA4E0200EA496C /* Sources */,
 				225EE5E12BBA4E0200EA496C /* Frameworks */,
@@ -166,14 +166,14 @@
 			dependencies = (
 				225EE5E62BBA4E0200EA496C /* PBXTargetDependency */,
 			);
-			name = IntroToUITests;
+			name = CreatingAndCombiningViewsTabitaSTests;
 			productName = IntroToUITests;
-			productReference = 225EE5E42BBA4E0200EA496C /* IntroToUITests.xctest */;
+			productReference = 225EE5E42BBA4E0200EA496C /* CreatingAndCombiningViewsTabitaSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		225EE5ED2BBA4E0200EA496C /* IntroToUIUITests */ = {
+		225EE5ED2BBA4E0200EA496C /* CreatingAndCombiningViewsTabitaSUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 225EE5FE2BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "IntroToUIUITests" */;
+			buildConfigurationList = 225EE5FE2BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "CreatingAndCombiningViewsTabitaSUITests" */;
 			buildPhases = (
 				225EE5EA2BBA4E0200EA496C /* Sources */,
 				225EE5EB2BBA4E0200EA496C /* Frameworks */,
@@ -184,9 +184,9 @@
 			dependencies = (
 				225EE5F02BBA4E0200EA496C /* PBXTargetDependency */,
 			);
-			name = IntroToUIUITests;
+			name = CreatingAndCombiningViewsTabitaSUITests;
 			productName = IntroToUIUITests;
-			productReference = 225EE5EE2BBA4E0200EA496C /* IntroToUIUITests.xctest */;
+			productReference = 225EE5EE2BBA4E0200EA496C /* CreatingAndCombiningViewsTabitaSUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -212,7 +212,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 225EE5CA2BBA4E0100EA496C /* Build configuration list for PBXProject "IntroToUI" */;
+			buildConfigurationList = 225EE5CA2BBA4E0100EA496C /* Build configuration list for PBXProject "CreatingAndCombiningViewsTabitaS" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -225,9 +225,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				225EE5CE2BBA4E0100EA496C /* IntroToUI */,
-				225EE5E32BBA4E0200EA496C /* IntroToUITests */,
-				225EE5ED2BBA4E0200EA496C /* IntroToUIUITests */,
+				225EE5CE2BBA4E0100EA496C /* CreatingAndCombiningViewsTabitaS */,
+				225EE5E32BBA4E0200EA496C /* CreatingAndCombiningViewsTabitaSTests */,
+				225EE5ED2BBA4E0200EA496C /* CreatingAndCombiningViewsTabitaSUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -292,12 +292,12 @@
 /* Begin PBXTargetDependency section */
 		225EE5E62BBA4E0200EA496C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 225EE5CE2BBA4E0100EA496C /* IntroToUI */;
+			target = 225EE5CE2BBA4E0100EA496C /* CreatingAndCombiningViewsTabitaS */;
 			targetProxy = 225EE5E52BBA4E0200EA496C /* PBXContainerItemProxy */;
 		};
 		225EE5F02BBA4E0200EA496C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 225EE5CE2BBA4E0100EA496C /* IntroToUI */;
+			target = 225EE5CE2BBA4E0100EA496C /* CreatingAndCombiningViewsTabitaS */;
 			targetProxy = 225EE5EF2BBA4E0200EA496C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -496,7 +496,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IntroToUI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/IntroToUI";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CreatingAndCombiningViewsTabitaS.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CreatingAndCombiningViewsTabitaS";
 			};
 			name = Debug;
 		};
@@ -516,7 +516,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IntroToUI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/IntroToUI";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CreatingAndCombiningViewsTabitaS.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CreatingAndCombiningViewsTabitaS";
 			};
 			name = Release;
 		};
@@ -559,7 +559,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		225EE5CA2BBA4E0100EA496C /* Build configuration list for PBXProject "IntroToUI" */ = {
+		225EE5CA2BBA4E0100EA496C /* Build configuration list for PBXProject "CreatingAndCombiningViewsTabitaS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				225EE5F62BBA4E0200EA496C /* Debug */,
@@ -568,7 +568,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		225EE5F82BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "IntroToUI" */ = {
+		225EE5F82BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "CreatingAndCombiningViewsTabitaS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				225EE5F92BBA4E0200EA496C /* Debug */,
@@ -577,7 +577,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		225EE5FB2BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "IntroToUITests" */ = {
+		225EE5FB2BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "CreatingAndCombiningViewsTabitaSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				225EE5FC2BBA4E0200EA496C /* Debug */,
@@ -586,7 +586,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		225EE5FE2BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "IntroToUIUITests" */ = {
+		225EE5FE2BBA4E0200EA496C /* Build configuration list for PBXNativeTarget "CreatingAndCombiningViewsTabitaSUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				225EE5FF2BBA4E0200EA496C /* Debug */,
